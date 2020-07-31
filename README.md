@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch06-12-sprite-masking
+# unity-cookbook-2020-ch06-11-sprite-masking
